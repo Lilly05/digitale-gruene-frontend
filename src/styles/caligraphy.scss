@@ -1,0 +1,28 @@
+@import "./colors.scss";
+
+h1, h4, p {
+  &::selection {
+    background: $color-green;
+    color: white;
+  }
+}
+
+h1 {
+  color: $color-green;
+  font-family: 'Arial Black', OpenSansBold, Gadget, sans-serif;
+  font-size: 48px;
+}
+
+h4 {
+  color: $color-green;
+  font-family: 'Arial Black', OpenSansBold, Gadget, sans-serif;
+  font-size: 24px;
+  margin: 16px 0 8px 0;
+}
+
+p {
+  color: $color-gray;
+  font-size: 1.25rem;
+  letter-spacing: 1px;
+  font-family: 'Open Sans', sans-serif;
+}
