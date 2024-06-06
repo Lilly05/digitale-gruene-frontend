@@ -8,6 +8,9 @@
         <p class="title">Email: </p>
         <p class="title">Telefon: </p>
         <p class="title">Geburtstag: </p>
+        <p class="title">Strasse: </p>
+        <p class="title">Stadt: </p>
+        <p class="title">PLZ: </p>
         <p class="title">Browser: </p>
         <p class="title">Betriebssystem: </p>
         <p class="title">IP: </p>
@@ -22,6 +25,9 @@
         <p class="value">{{ email }}</p>
         <p class="value">{{ phone }}</p>
         <p class="value">{{ birthday }}</p>
+        <p class="value">{{street}}</p>
+        <p class="value">{{city}}</p>
+        <p class="value">{{zip}}</p>
         <p class="value">{{ browser }}</p>
         <p class="value">{{ device }}</p>
         <p class="value">{{ ip }}</p>
@@ -48,6 +54,9 @@ const lastname: Ref<string> = ref('');
 const email: Ref<string> = ref('');
 const phone: Ref<string> = ref('');
 const birthday: Ref<string> = ref('');
+const street: Ref<string> = ref('');
+const city: Ref<string> = ref('');
+const zip: Ref<string> = ref('');
 const browser: Ref<string> = ref('');
 const device: Ref<string> = ref('');
 const ip: Ref<string> = ref('');
@@ -78,6 +87,9 @@ onMounted(() => {
     typeText(email, props.data.email);
     typeText(phone, props.data.phone);
     typeText(birthday, props.data.birthdate);
+    typeText(street, props.data.street);
+    typeText(city, props.data.city);
+    typeText(zip, props.data.zip);
     getNavigatorInfo();
   }, 200);
 });
