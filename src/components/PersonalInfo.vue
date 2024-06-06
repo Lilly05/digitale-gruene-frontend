@@ -158,6 +158,18 @@ const typeText = async (ref: Ref<string>, text: string) => {
   padding: 32px;
 }
 
+@media screen and (max-width: 500px) {
+  .personal-info {
+    width: 200px;
+    height: 400px;
+    font-size: 10px;
+  }
+
+  .profile-pic {
+    height: 50px;
+  }
+}
+
 .titles {
   min-width: 128px;
 }

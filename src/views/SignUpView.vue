@@ -7,13 +7,13 @@
     <div class="content">
       <h1>Workshop - Datensicherheit</h1>
       <p class="subtitle">
-        Weil der Schutz persönlicher Daten in unserer digitalen Welt immer wichtiger wird, laden wir euch herzlich zu unserem Datenschutz-Workshop ein.
+        Weil der Schutz persönlicher Daten in unserer digitalen Welt immer wichtiger wird, laden wir dich herzlich zu unserem Datenschutz-Workshop ein.
       </p>
       <p class="info">
         Gerade in Zeiten, in denen der Schutz unserer persönlichen Daten immer mehr an Bedeutung gewinnt, ist es wichtig, dass wir uns informieren und vernetzen.
       </p>
       <p class="info">
-        An diesem Datenschutz Workshop erwartet euch ein Vortrag und anschliessend habt ihr die Möglichkeit, an verschiedenen thematischen Workshops teilzunehmen. Hier könnt ihr eurer Wissen vertiefen, sich austauschen und praktische Tipps für den Alltag mitnehmen. Die Workshops bieten eine Plattform, um individuelle Fragen zu klären und sich mit anderen Teilnehmenden zu vernetzen.
+        An diesem Datenschutz Workshop erwartet dich ein Vortrag und anschliessend hast du die Möglichkeit, an verschiedenen thematischen Workshops teilzunehmen. Hier kannst du dein Wissen vertiefen, dich austauschen und praktische Tipps für den Alltag mitnehmen. Die Workshops bieten eine Plattform, um individuelle Fragen zu klären und sich mit anderen Teilnehmenden zu vernetzen.
       </p>
       <p class="info">Die Themen der Workshops und des Vortrags umfassen:</p>
       <ul>
@@ -23,8 +23,8 @@
         <li class="info">Browseraddons für Datenschutz</li>
         <li class="info">Passwort Manager</li>
       </ul>
-      <h3 class="info">Seit dabei! Gemeinsam können wir den Schutz unserer Daten verbessern und uns für eine sichere digitale Zukunft einsetzen. Nehmt gerne euren persönlichen Laptop mit!</h3>
-      <p class="info">Wir freuen uns auf eure Teilnahme und auf einen interessanten Abend und spannenden Diskussionen.</p>
+      <h3 class="info">Sei dabei! Gemeinsam können wir den Schutz unserer Daten verbessern und uns für eine sichere digitale Zukunft einsetzen. Nimm gerne deinen persönlichen Laptop mit!</h3>
+      <p class="info">Wir freuen uns auf deine Teilnahme und auf einen interessanten Abend und spannenden Diskussionen.</p>
       <p class="info">Mit lieben Grüssen, AG Freundliche Maschinen</p>
       <h4>Eventinformationen</h4>
       <div class="eventinfo">

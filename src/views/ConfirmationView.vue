@@ -100,6 +100,17 @@ const updateShowTimer = (event: Event) => {
   z-index: 999;
 }
 
+.code {
+  // opacity: .25;
+  font-size: 36px;
+  color: $c-color-green;
+}
+
+.big {
+  font-size: 36px;
+  color: $c-color-green;
+}
+
 .subtitle {
   color: $c-color-gray;
   font-family: $c-font-p;
@@ -131,22 +142,11 @@ const updateShowTimer = (event: Event) => {
   z-index: 999;
 }
 
-.code {
-  // opacity: .25;
-  font-size: 36px;
-  color: $c-color-green;
-}
-
 .split {
   display: flex;
 }
 
 .green {
-  color: $c-color-green;
-}
-
-.big {
-  font-size: 36px;
   color: $c-color-green;
 }
 
@@ -170,15 +170,6 @@ const updateShowTimer = (event: Event) => {
     overflow-y: scroll;
   }
 
-  .code {
-    font-size: 28px;
-  }
-
-  .title {
-    padding: 32px;
-    font-size: 36px;
-  }
-
   .personal-info {
     width: 100vw;
     border-right: none;
@@ -195,6 +186,25 @@ const updateShowTimer = (event: Event) => {
   .subtitle {
     padding: 0 32px 32px 32px;
     width: calc(100vw - 64px);
+  }
+}
+
+@media screen and (max-width: 500px) {
+  .title {
+    font-size: 20px;
+    padding: 32px;
+  }
+
+  .code {
+    font-size: 25px;
+  }
+
+  .big {
+    font-size: 20px;
+  }
+
+  .subtitle {
+    font-size: 15px;
   }
 }
 </style>
