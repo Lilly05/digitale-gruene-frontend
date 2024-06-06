@@ -10,7 +10,7 @@
         Weil der Schutz persönlicher Daten in unserer digitalen Welt immer wichtiger wird, laden wir dich herzlich zu unserem Datenschutz-Workshop ein.
       </p>
       <p class="info">
-        An diesem Datenschutz Workshop erwartet dich ein Vortrag und anschliessend hast du die Möglichkeit, an verschiedenen thematischen Workshops teilzunehmen. Hier kannst du dein Wissen vertiefen, dich austauschen und praktische Tipps für den Alltag mitnehmen.
+        An diesem Datenschutz Workshop erwartet dich ein Vortrag und anschliessend hast du die Möglichkeit, an verschiedenen thematischen Workshops teilzunehmen.
       </p>
       <p class="info">Die Themen der Workshops und des Vortrags umfassen:</p>
       <ul>
