@@ -20,7 +20,7 @@
         <li class="info">Browseraddons für Datenschutz</li>
         <li class="info">Passwort Manager</li>
       </ul>
-      <h3 class="info">Sei dabei! Gemeinsam können wir den Schutz unserer Daten verbessern und uns für eine sichere digitale Zukunft einsetzen. Nimm gerne deinen persönlichen Laptop mit!</h3>
+      <p class="info">Sei dabei! Gemeinsam können wir den Schutz unserer Daten verbessern und uns für eine sichere digitale Zukunft einsetzen.<p class="info laptop-info"> Nimm gerne deinen persönlichen Laptop mit! </p></p>
       <p class="info">Mit lieben Grüssen, AG Freundliche Maschinen</p>
       <h4>Eventinformationen</h4>
       <div class="eventinfo">
@@ -131,6 +131,10 @@ const handleMouseMove = (event: MouseEvent) => {
   .sign-up-title {
     margin-top: 32px;
   }
+}
+
+.laptop-info {
+  font-weight: bold;
 }
 
 @keyframes bloop {
