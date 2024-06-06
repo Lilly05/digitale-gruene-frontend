@@ -21,7 +21,6 @@
         <li class="info">Passwort Manager</li>
       </ul>
       <h3 class="info">Sei dabei! Gemeinsam können wir den Schutz unserer Daten verbessern und uns für eine sichere digitale Zukunft einsetzen. Nimm gerne deinen persönlichen Laptop mit!</h3>
-      <p class="info">Wir freuen uns auf deine Teilnahme und auf einen interessanten Abend und spannenden Diskussionen.</p>
       <p class="info">Mit lieben Grüssen, AG Freundliche Maschinen</p>
       <h4>Eventinformationen</h4>
       <div class="eventinfo">
