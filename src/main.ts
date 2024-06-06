@@ -8,7 +8,7 @@ import axios from 'axios';
 
 const app = createApp(App)
 
-axios.defaults.baseURL = 'http://localhost:3000';
+axios.defaults.baseURL = 'https://api.digitale-gruene.ch/';
 app.config.globalProperties.$axios = axios;
 
 app.use(router)
