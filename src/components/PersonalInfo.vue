@@ -192,5 +192,9 @@ const typeText = async (ref: Ref<string>, text: string) => {
   .values {
     width: 50%;
   }
+
+  .information {
+    font-size: 12px;
+  }
 }
 </style>
