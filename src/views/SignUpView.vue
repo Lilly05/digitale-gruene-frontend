@@ -28,7 +28,7 @@
           <span><span class="bold">Datum: </span> 20. Juni 2024</span>
         </div>
         <div class="eventinfo-row">
-          <span><span class="bold">Zeit: </span> 19:00 Uhr - 20:00 Uhr</span>
+          <span><span class="bold">Zeit: </span> 19:00 Uhr - 21:00 Uhr</span>
         </div>
         <div class="eventinfo-row">
           <span><span class="bold">Ort: </span>Forwardspace, Hirschengraben 43, 6003 Luzern</span>
